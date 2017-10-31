@@ -5,7 +5,7 @@
 Widget 开发人员需要熟悉js、react、uui、comonjs等主流前端开发技术，编写代码时要遵循AMD等大众规范，具体代码编写参考
 Google JavaScript 编码规范指南：<http://alloyteam.github.io/JX/doc/specification/google-javascript.xml>
 
- 一个widget xml定义结如下：
+ 一个widget xml定义结构如下：
 
 	<?xml version="1.0" encoding="UTF-8"?>
 	<Module><ModulePrefs title="待办-任务"></ModulePrefs>
@@ -124,8 +124,10 @@ Html编写要遵循uui 控件要求，html数据绑定、事件、
 使用示例如下：
 
 ![](/articles/cportal/4-/images/1.PNG)
- 
+<p align="center">图 1</p>
+
 (2).${widgetId}, 小部件标识
 使用示例如下：
 
 ![](/articles/cportal/4-/images/2.PNG)
+<p align="center">图 2</p>
